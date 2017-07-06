@@ -1,5 +1,4 @@
-package VitunGit;
-
+package GUI_project;
 public class Istuinpaikka {
 	//Attr
 		/*int paikanNumero;
