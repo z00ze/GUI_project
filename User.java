@@ -1,4 +1,4 @@
-package VitunGit;
+package GUI_project;
 
 /** Eri käyttäjätyyppien yliluokka
  * @author Juhani Vähä-Mäkilä
