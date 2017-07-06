@@ -1,4 +1,4 @@
-package VitunGit;
+package GUI_project;
 
 import java.awt.Color;
 import java.awt.Dimension;
