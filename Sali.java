@@ -1,5 +1,4 @@
-package VitunGit;
-
+package GUI_project;
 /**Mallintaa elokuvateatterin salia.
 *@.ClassInvariant (((rivit>0 && rivinPituus>0) && paikat!=null) && paikat.size==rivit*rivinPituus)
 */
