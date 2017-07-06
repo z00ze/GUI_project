@@ -1,4 +1,4 @@
-package VitunGit;
+package GUI_project;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
