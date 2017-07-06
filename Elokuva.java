@@ -1,4 +1,4 @@
-package VitunGit;
+package GUI_project;
 
 /**Mallintaa elokuvaa
 */
